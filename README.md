@@ -5,7 +5,8 @@ Firebase slack clone.
 
 1. Being a node project, `npm` should be installed. This comes with node by default.
 2. For client-side dependencies, you'll need `bower`. You can install it via `npm install -g bower`.
-3. You'll need a Firebase account, [sign up for one](https://www.firebase.com/).
+3. The `grunt` task runner is needed, install via `npm install -g grunt-cli`.
+4. You'll need a Firebase account, [sign up for one](https://www.firebase.com/).
 
 ## Installation
 
