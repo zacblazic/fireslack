@@ -38,7 +38,6 @@
   },
   "scripts": {
     "postinstall": "bower install",
-    "prestart": "npm install",
     "start": "grunt serve",
     "test": "grunt test"
   }
