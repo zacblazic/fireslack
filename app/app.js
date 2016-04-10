@@ -8,6 +8,7 @@
  *
  * Main module of the application.
  */
+
 angular
   .module('fireslack', [
     'firebase',
@@ -133,4 +134,4 @@ angular
 
     $urlRouterProvider.otherwise('/');
   })
-  .constant('FirebaseUrl', 'https://popping-heat-4553.firebaseio.com/');
+  .constant('FirebaseUrl', 'https://your-firebase-app.firebaseio.com');
